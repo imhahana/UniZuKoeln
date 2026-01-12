@@ -9,7 +9,7 @@ public class d_integer {
 		i = 7;
 		System.out.println(i);
 		
-		//Variablen können geändert werden
+		//Variablen können geändert werden gugugaga
 		
 		
 		final int j;
