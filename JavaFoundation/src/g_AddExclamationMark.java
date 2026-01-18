@@ -1,5 +1,5 @@
 
-public class AddExclamationMark {
+public class g_AddExclamationMark {
 	
 	public static void main (String [] args) {
 		AddExclamationMark("hot dogs");
